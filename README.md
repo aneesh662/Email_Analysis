@@ -1,5 +1,5 @@
 # Email Analysis Project
-
+![Project Screenshot](https://raw.githubusercontent.com/username/repository/main/images/screenshot.png)
 ## Overview
 This project performs an analysis of emails using Python, specifically focusing on sentiment analysis, visualizations, and summary statistics. The project begins with the extraction of email data from `.eml` files, followed by data transformation and loading into a structured format for analysis.
 
